@@ -2,7 +2,8 @@ import streamlit as st
 
 st.set_page_config(
   page_title="Kuliah Praktisi Industri",
-  layout="wide"
+  page_icon="🧊",
+  layout="centered"
 )
 
 # Hirarki teks
